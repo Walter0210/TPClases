@@ -208,7 +208,7 @@
             this.buttonClear.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonClear.Location = new System.Drawing.Point(233, 126);
             this.buttonClear.Name = "buttonClear";
-            this.buttonClear.Size = new System.Drawing.Size(50, 106);
+            this.buttonClear.Size = new System.Drawing.Size(50, 50);
             this.buttonClear.TabIndex = 14;
             this.buttonClear.Text = "C";
             this.buttonClear.UseVisualStyleBackColor = true;
