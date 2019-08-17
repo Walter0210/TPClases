@@ -36,7 +36,7 @@ namespace calculadora
             calcDisplay.Clear();
             historial.Text = _PilaNumeros + " " + _operador;
         }
-
+        //Comentario de prueba
         private void Igual_Click(object sender, EventArgs e)
         {
             historial.Text = "";
